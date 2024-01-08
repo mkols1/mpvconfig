@@ -4,10 +4,10 @@ My mpv settings for media consumption, primarily anime.
 # Installation
 1. "Win + r" and open "%appdata%\mpv"
 2. Clone/download the files to this directory.
-3. Change the directories in /script-opts/webm.conf(line 12) and mpv.conf(line 42) to your desired location.
+3. Change the directories in /scripts/webm.lua(line 18) and mpv.conf(line 42) to your desired location.
 
 # mpv.conf
-anime4k shaders by default.
+anime4k shaders by default. Ctrl + 1-6 to select shaders, Ctrl + 0 to clear.
 
 # Shaders
 Includes all [anime4k](https://github.com/bloc97/Anime4K) shaders.
