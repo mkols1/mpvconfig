@@ -17,7 +17,7 @@ Includes all [anime4k](https://github.com/bloc97/Anime4K) shaders.
 
 [easycrop](https://github.com/aidanholm/mpv-easycrop) uses "c" as a keybind to crop current file. Press "c" once to begin cropping, left click once to set first point and left click again to set second point. To clear crop press "c" again.
 
-[freeze-window](https://github.com/occivink/mpv-image-viewer/blob/master/scripts/freeze-window.lua) prevents media of different sizes from resizing the window 
+[freeze-window](https://github.com/occivink/mpv-image-viewer/blob/master/scripts/freeze-window.lua) prevents media from resizing the window 
 
 [playlistmanager](https://github.com/jonniek/mpv-playlistmanager) allows you to load playlists and navigate them inside of the mpv player. Go to their github link to see more instructions.
 
